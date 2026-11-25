@@ -1,3 +1,10 @@
-.*
-build
+.git
+.env*
 node_modules
+reports
+.scannerwork
+trivy*.txt
+image-digest.txt
+Jenkinsfile
+k8s
+*.md
